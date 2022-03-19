@@ -1,5 +1,5 @@
 Games Repos
-- I coded some games in C# WPF.
+- I coded some simple games in C# WPF.
 - Please feel free to make amendments or to use.
 
 <!---
