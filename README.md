@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iztak
 - 👀 I’m interested in C++, C#, python
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning C# and C++ and I would really like any advice on how to improve my programming skills
 - 💞️ I’m looking to collaborate on WPF projects
 
 <!---
